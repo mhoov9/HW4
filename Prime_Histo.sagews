@@ -9,6 +9,9 @@ def prime_distribution(n):
     return stats.TimeSeries(mod_list).plot_histogram()
 
 prime_distribution(15)
+<<<<<<< HEAD
 ︡f5b1dff1-73d7-4e78-a099-77b3202b36f2︡{"file":{"show":true,"uuid":"d9a07195-20c5-4ca1-a656-0d36cb8336b0","filename":"/mnt/home/AXkJVYGl/.sage/temp/compute1a/2331/tmp_AIR9Kc.svg"}}︡{"stdout":"\n"}︡
 ︠df37b253-0602-43c3-bf41-6bb787dc22cf︠
 
+=======
+>>>>>>> f3a575f71cfc83010a8740e50e02ec9600ae492a
