@@ -6,8 +6,6 @@ def prime_distribution(n):
     while i < len(prime_list):
         mod_list.append(prime_list[i] % n)
         i += 1
-    """print prime_list"""
-    """print mod_list"""
     return stats.TimeSeries(mod_list).plot_histogram()
 
-prime_distribution(20)
+prime_distribution(15)
